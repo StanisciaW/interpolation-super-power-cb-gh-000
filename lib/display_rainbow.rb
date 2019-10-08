@@ -4,7 +4,7 @@ display_rainbow = colors['red', 'orange', 'yellow', 'green', 'blue', 'indigo', '
 
 
 
-display_rainbow(colors)
+
 
 puts display_rainbow
 end
